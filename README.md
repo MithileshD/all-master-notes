@@ -1,13 +1,13 @@
 ## Table of Contents
  1. [Subheading 1](#subheading-1)
  2. [Subheading 2](#subheading-2)
- 3. [Subheading 3](#sub-heading-3)
+ 3. [Subheading 3](#subheading-3)
  4. [Subheading 4](#subheading-4)
  5. [Subheading 5](#subheading-5)
- 6. [Subheading 6](#sub-heading-6)
- 7. [Subheading 7](#sub-heading-7)
- 8. [Subheading 8](#sub-heading-8)
- 9. [Subheading 9](#sub-heading-9)
+ 6. [Subheading 6](#subheading-6)
+ 7. [Subheading 7](#subheading-7)
+ 8. [Subheading 8](#subheading-8)
+ 9. [Subheading 9](#subheading-9)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -55,7 +55,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
  Content of the subheading 5
  ## Sub heading 6
  Content of the subheading 6
-
  ## Subheading 7
  Content of the subheading 7
  ## Subheading 8
