@@ -15,7 +15,7 @@
 
 
  # Heading 1
-	 ![alt text](image.png)
+![alt text](image.png)
  ## Subheading 11 Explain 'this' in various modes
  Content of the subheading 11
  ## Subheading 12
