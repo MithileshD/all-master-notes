@@ -1,7 +1,7 @@
 
  
  1. [Heading 1](#heading-1) <br/>
-	1.1. [What does 'this' refers to](#What-does-'this'-refers-to) <br/>
+	1.1. [What does 'this' refers to](#what-does-this-refers-to) <br/>
 	1.2. [Sub heading 12](#subheading-12) <br/>
  	1.3. [Sub heading 13](#subheading-13) <br/>
  2. [Heading 2](#heading-2) <br/>
