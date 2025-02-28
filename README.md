@@ -15,10 +15,9 @@
 
 
  # Heading 1
-![alt text](image.png)
  ## Subheading 11 
- ## What does 'this' refers to ? 
- Content of the subheading 11
+ ## What does 'this' refers to ?
+![alt text](image.png)
  ## Subheading 12
  Content of the subheading 12
  ## Subheading 13
