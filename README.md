@@ -16,7 +16,8 @@
 
  # Heading 1
  Content of the heading 1
- ## Subheading 11
+ ![alt text](image.png)
+ ## What is “this” keyword
  Content of the subheading 11
  ## Subheading 12
  Content of the subheading 12
