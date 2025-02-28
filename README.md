@@ -1,6 +1,6 @@
 ## Table of Contents
  1. [Subheading 1](#subheading-1)
-  1.1. [Subheading 3](#sub-heading-3)
+  1.1. [Subheading 3](#subheading-3)
  3. [Subheading 2](#subheading-2)
  4. [Subheading 3](#subheading-3)
  5. [Subheading 4](#subheading-4)
