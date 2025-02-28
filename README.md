@@ -1,19 +1,4 @@
-<details>
-	<summary>Your header here! (Click to expand)</summary>
-	Your content here...</br>
-	(markup only where supported)</br>
-	more content here...</br>
-</details>
 
-<details>
-	<summary>Your header here! (Click to expand)</summary>
-	Your content here...</br>
-	(markup only where supported)</br>
-	more content here...</br>
-</details>
-
-<details>
-	<summary>Your header here! (Click to expand)</summary>
  
  1. [Heading 1](#heading-1) <br/>
   1.1. [Sub heading 11](#subheading-11) <br/>
@@ -53,9 +38,3 @@
  Content of the subheading 32
  ## Subheading 33
  Content of the subheading 33
-
-</br>
-(markup only where supported)</br>
-more content here...</br>
-</details>
-   
