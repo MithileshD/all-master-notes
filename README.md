@@ -1,7 +1,7 @@
 
  
  1. [Heading 1](#heading-1) <br/>
-	1.1. [Sub heading 11](#subheading-11) <br/>
+	1.1. [Explain 'this' in various modes?](#subheading-11) <br/>
 	1.2. [Sub heading 12](#subheading-12) <br/>
  	1.3. [Sub heading 13](#subheading-13) <br/>
  2. [Heading 2](#heading-2) <br/>
@@ -14,9 +14,9 @@
   	3.3. [Sub heading 33](#subheading-33) <br/>
 
 
- # Explain 'this' in various modes?
+ # Heading 1
 	 ![alt text](image.png)
- ## Subheading 11
+ ## Explain 'this' in various modes?
  Content of the subheading 11
  ## Subheading 12
  Content of the subheading 12
