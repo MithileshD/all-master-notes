@@ -53,13 +53,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
  Content of the subheading 4
  ## Subheading 5
  Content of the subheading 5
- ## Sub heading 6
+ ## Subheading 6
  Content of the subheading 6
  ## Subheading 7
  Content of the subheading 7
  ## Subheading 8
  Content of the subheading 8
- ## Sub heading 9
+ ## Subheading 9
  Content of the subheading 9
 
 
