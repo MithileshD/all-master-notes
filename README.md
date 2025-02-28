@@ -2,9 +2,12 @@
  1. [Subheading 1](#subheading-1)
  2. [Subheading 2](#subheading-2)
  3. [Subheading 3](#sub-heading-3)
- 4. [Subheading 1](#subheading-4)
- 5. [Subheading 2](#subheading-5)
- 6. [Subheading 3](#sub-heading-6)
+ 4. [Subheading 4](#subheading-4)
+ 5. [Subheading 5](#subheading-5)
+ 6. [Subheading 6](#sub-heading-6)
+ 7. [Subheading 7](#sub-heading-7)
+ 8. [Subheading 8](#sub-heading-8)
+ 9. [Subheading 9](#sub-heading-9)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -61,5 +64,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
  Content of the subheading 5
  ## Sub heading 6
  Content of the subheading 6
+
+ ## Subheading 7
+ Content of the subheading 7
+ ## Subheading 8
+ Content of the subheading 8
+ ## Sub heading 9
+ Content of the subheading 9
 
 
