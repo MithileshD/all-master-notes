@@ -1,22 +1,20 @@
 <details>
-		<summary>Your header here! (Click to expand)</summary>
-		Your content here...</br>
-		(markup only where supported)</br>
-		more content here...</br>
+	<summary>Your header here! (Click to expand)</summary>
+	Your content here...</br>
+	(markup only where supported)</br>
+	more content here...</br>
 </details>
 
 <details>
-		<summary>Your header here! (Click to expand)</summary>
-		Your content here...</br>
-		(markup only where supported)</br>
-		more content here...</br>
+	<summary>Your header here! (Click to expand)</summary>
+	Your content here...</br>
+	(markup only where supported)</br>
+	more content here...</br>
 </details>
 
 <details>
-		<summary>Your header here! (Click to expand)</summary>
-	
+	<summary>Your header here! (Click to expand)</summary>
  
-## Table of Contents - React
  1. [Heading 1](#heading-1) <br/>
   1.1. [Sub heading 11](#subheading-11) <br/>
   1.2. [Sub heading 12](#subheading-12) <br/>
@@ -56,11 +54,8 @@
  ## Subheading 33
  Content of the subheading 33
 
-
-
-
 </br>
-		(markup only where supported)</br>
-		more content here...</br>
+(markup only where supported)</br>
+more content here...</br>
 </details>
    
