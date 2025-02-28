@@ -17,7 +17,7 @@
  # Heading 1
 ![alt text](image.png)
  ## Subheading 11 
- ## Explain 'this' in various modes
+ ## What does 'this' refers to ? 
  Content of the subheading 11
  ## Subheading 12
  Content of the subheading 12
