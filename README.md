@@ -30,7 +30,7 @@
  Content of the subheading 22
  ## Subheading 23
  Content of the subheading 23
- ## Heading 3
+ # Heading 3
  Content of the heading 3
  ## Subheading 31
  Content of the subheading 31
