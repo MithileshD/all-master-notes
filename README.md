@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Section Heading Available Scripts
+## Section Heading - Available Scripts
 
 In the project directory, you can run:
 
-### Sub-Section Heading `npm start`
+### Sub-Section Heading - `npm start`
 
 ### Code Splitting
 
