@@ -1,7 +1,8 @@
 1.  [all-JavaScript](#all-javascript) <br/>
-    1.1. [What does 'this' refers to](#subheading-11) <br/>
-    1.2. [Sub heading 12](#subheading-12) <br/>
-    1.3. [Sub heading 13](#subheading-13) <br/><br/>
+    1.1. [What does 'this' refers to?](#subheading-11) <br/>
+    1.2. [Explain  call() , apply() & bind()?](#subheading-12) <br/>
+    1.3. [ES6 New Feature : Spread Operator, Rest Operator & Destructuring](#subheading-13) <br/>
+    1.4. [Shallow vs Deep Copy](#subheading-14) <br/><br/>
 2.  [all-React](#all-react) <br/>
     2.1. [Sub heading 21](#subheading-21) <br/>
     2.2. [Sub heading 22](#subheading-22) <br/>
