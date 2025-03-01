@@ -18,9 +18,8 @@
 
 ---
 # all-JavaScript
-
-## Subheading 11
-### What does 'this' refers to ?
+# Subheading 11
+## What does 'this' refers to ?
 
 <details>
 
