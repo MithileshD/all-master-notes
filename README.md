@@ -32,8 +32,8 @@ const element = <h1>Hello, JSX!</h1>;
 </details>
 ______________________________________________________________________
 
-###### Subheading 12
-#### Question?
+## Subheading 12
+### Question?
 
 <details>
 
@@ -46,8 +46,8 @@ Answer!
 </details>
 ______________________________________________________________________
 
-###### Subheading 13
-#### Question?
+## Subheading 13
+### Question?
 
 <details>
 
@@ -63,8 +63,8 @@ Answer!
 
 # all-React
 
-###### Subheading 21
-#### Question?
+## Subheading 21
+### Question?
 
 <details>
 
@@ -79,8 +79,8 @@ ______________________________________________________________________
 
 
 
-###### Subheading 22
-#### Question?
+## Subheading 22
+### Question?
 
 <details>
 
@@ -94,8 +94,8 @@ Answer!
 ______________________________________________________________________
 
 
-###### Subheading 23
-#### Question?
+## Subheading 23
+### Question?
 
 <details>
 
@@ -111,8 +111,8 @@ Answer!
 
 # all-HTML
 
-###### Subheading 31
-#### Question?
+## Subheading 31
+### Question?
 
 <details>
 
@@ -125,8 +125,8 @@ Answer!
 </details>
 ______________________________________________________________________
 
-###### Subheading 32
-#### Question?
+## Subheading 32
+### Question?
 
 <details>
 
@@ -139,8 +139,8 @@ Answer!
 </details>
 ______________________________________________________________________
 
-###### Subheading 33
-#### Question?
+## Subheading 33
+### Question?
 
 <details>
 
@@ -156,8 +156,8 @@ Answer!
 
 # all-sort
 
-###### Subheading 41
-#### Question?
+## Subheading 41
+### Question?
 
 <details>
 
@@ -170,8 +170,8 @@ Answer!
 </details>
 ______________________________________________________________________
 
-###### Subheading 42
-#### Question?
+## Subheading 42
+### Question?
 
 <details>
 
@@ -184,8 +184,8 @@ Answer!
 </details>
 ______________________________________________________________________
 
-###### Subheading 43
-#### Question?
+## Subheading 43
+### Question?
 
 <details>
 
