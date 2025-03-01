@@ -42,20 +42,29 @@ ______________________________________________________________________
 ```javascript
 const element = <h1>Hello, JSX!</h1>;
 ```
-Call method
+
+### Note: They don't work with arrow functions!
+
+Call method 
+
+![alt text](image-20.png)
 ![alt text](./images/image.png)
 
 Apply method
+
+![alt text](image-19.png)
 ![alt text](./images/image-3.png)
 
 Bind method
+
+![alt text](image-18.png)
 ![alt text](./images/image-4.png)
 
 </details>
 ______________________________________________________________________
 
 ## Subheading 13
-### Spread Operator, Rest Operator & Destructuring
+### ES6 New Feature : Spread Operator, Rest Operator & Destructuring
 
 <details>
 
@@ -107,10 +116,26 @@ const element = <h1>Hello, JSX!</h1>;
 
 
 </details>
+
 ______________________________________________________________________
 
 ## Subheading 15
-### Question?
+### Array Methods - toDo
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+![alt text](image-11.png)
+
+</details>
+
+______________________________________________________________________
+
+## Subheading 16
+### String Methods - toDo
 
 <details>
 
@@ -121,7 +146,100 @@ const element = <h1>Hello, JSX!</h1>;
 Answer!
 
 </details>
+
 ______________________________________________________________________
+
+## Subheading 17
+### Closures
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+A closure gives a function access to its outer scope. 
+
+In other words, a closure is the combination of a function enclosed with references to its surrounding state i.e. the lexical environment. 
+
+### What is lexical scoping in closures?
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+The console.log() statement within the displayName() function successfully displays the value of the name variable, which is declared in its parent function. 
+
+This is an example of lexical scoping.
+
+Nested functions have access to variables declared in their outer scope.
+
+## Will the following work as expected or not?
+
+![alt text](image-14.png)
+
+No matter what field you focus, only the message about your age will be displayed!! 
+
+Reason:
+![alt text](image-15.png)
+
+## How to solve this bug ?
+
+Solution: You have to use the let or const keyword instead of var.
+
+![alt text](image-16.png)
+
+</details>
+______________________________________________________________________
+
+
+## Subheading 18
+### What's the diff. b/n arrow & ES5 function?
+
+<details>
+
+
+### 1. Call apply bind work with ES5 functions but not arrow functions;
+
+![alt text](image-17.png)
+
+![alt text](image-22.png)
+
+### 2.	“arguments” object works only inside ES5 function while "spread operator" works only inside Arrow function
+
+![alt text](image-21.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+### 2. ES5 function can be accessed before they are declared  but not Arrow function.
+
+![alt text](image-27.png)
+
+![alt text](image-26.png)
+
+### 3. this value ES5 function has its own 'this' but Arrow function don't.
+
+Regular functions have their own this context. Depends on how you call or execute the function.
+
+Arrow functions, do not have their own this context. They capture the this value from the surrounding lexical context in which the arrow function was created.
+
+
+### 4. Prototype property by default existis for ES5 function but not for Arrow function.
+
+Any function declared in JS except Arrow functions have a default property called prototype. 
+Accessing prototype of an arrow function gives undefined as below,
+
+![alt text](image-25.png)
+
+### By default, the prototype of any function's (ES5 only) prototype property is Object.prototype  
+
+### Object.prototype.__proto__ is null 
+
+</details>
+______________________________________________________________________
+
 
 ---
 
