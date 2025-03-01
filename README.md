@@ -27,13 +27,60 @@
 const element = <h1>Hello, JSX!</h1>;
 ```
 
-![alt text](image.png)
+<b>Last point v.imp!</b>
+
+![alt text](./images/image-2.png)
 
 </details>
 ______________________________________________________________________
 
 ## Subheading 12
-### Question?
+### Explain  call() , apply() & bind() ?
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+Call method
+![alt text](./images/image.png)
+
+Apply method
+![alt text](./images/image-3.png)
+
+Bind method
+![alt text](./images/image-4.png)
+
+</details>
+______________________________________________________________________
+
+## Subheading 13
+### Spread Operator, Rest Operator & Destructuring
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+Spread operator
+
+![alt text](image-5.png)
+
+numbersCombined will be [1, 2, 3, 4, 5, 6]
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+Rest Operator
+
+![alt text](image-3.png)
+
+</details>
+______________________________________________________________________
+
+## Subheading 14
+###  Shallow vs Deep Copy
 
 <details>
 
@@ -41,12 +88,28 @@ ______________________________________________________________________
 const element = <h1>Hello, JSX!</h1>;
 ```
 
-Answer!
+# Shallow Copy
+![alt text](image-4.png)
+
+# Deep Copy for non-nested objects
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+
+## Full proof way to Deep copy 
+
+### structuredClone() global function <br/>
+
+(except non-serializable objects, for example, functions (with closures), Symbols, objects that represent HTML elements in the HTML DOM API, recursive data, and many other cases.)
+
+![alt text](image-10.png)
+
 
 </details>
 ______________________________________________________________________
 
-## Subheading 13
+## Subheading 15
 ### Question?
 
 <details>
@@ -79,7 +142,7 @@ Answer!
 ______________________________________________________________________
 
 ## Subheading 22
-### Question?
+### How will you update state based on previous state ?
 
 <details>
 
@@ -87,14 +150,17 @@ ______________________________________________________________________
 const element = <h1>Hello, JSX!</h1>;
 ```
 
-Answer!
+Since state is considered read only so you should replace it with a new updated state, rather than mutate your existing object.  
+
+Wrong: setAge(age+1)  
+Correct: setAge(prevAge => prevAge + 1)  
 
 </details>
 ______________________________________________________________________
 
 
 ## Subheading 23
-### Question?
+### Will you update or mutate react state? 
 
 <details>
 
@@ -102,9 +168,25 @@ ______________________________________________________________________
 const element = <h1>Hello, JSX!</h1>;
 ```
 
-Answer!
+Since state is considered read only so you should replace it with a new updated state, rather than mutate your existing object.  
+![alt text](./images/image-1.png)
 
 </details>
+
+## Subheading 24
+### What can we put in componentWillUnmount?
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+This is called just before a component is removed from the DOM. It's a crucial place to perform cleanup tasks, such as clearing timers, unsubscribing from events, or releasing resources to prevent memory leaks. 
+
+</details>
+______________________________________________________________________
+
 ______________________________________________________________________
 
 ---
@@ -200,3 +282,17 @@ Answer!
 ______________________________________________________________________
 
 ---
+
+## Subheading 
+### Question?
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+Answer!
+
+</details>
+______________________________________________________________________
