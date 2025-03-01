@@ -21,6 +21,27 @@
  # all-JavaScript
  ## What does 'this' refers to
 ![alt text](image.png)
+
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
  ## Subheading 12
  Content of the subheading 12
  ## Subheading 13
