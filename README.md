@@ -16,7 +16,12 @@
     4.1. [Sub heading 41](#subheading-41) <br/>
     4.2. [Sub heading 42](#subheading-42) <br/>
     4.3. [Sub heading 43](#subheading-43) <br/>
-    4.3. [Sub heading 44](#subheading-44) <br/>
+    4.3. [Sub heading 44](#subheading-44) <br/><br/>
+5.  [all-quiz](#all-quiz) <br/>
+    5.1. [Sub heading 51](#subheading-51) <br/>
+    5.2. [Sub heading 52](#subheading-52) <br/>
+    5.3. [Sub heading 53](#subheading-53) <br/>
+    5.3. [Sub heading 54](#subheading-54) <br/>
 
 ---
 # all-JavaScript
@@ -416,3 +421,23 @@ Answer!
 
 </details>
 ______________________________________________________________________
+
+---
+
+# all-quiz
+
+## Subheading 51
+### How will you flatten a deeply nested array?
+
+<details>
+
+```javascript
+const element = <h1>Hello, JSX!</h1>;
+```
+
+Answer!
+
+</details>
+
+let input = [1, 2, [3, 4], [5, 6, [7, 8, [9]]]];
+let output = [1, 2, 3, 4, 5, 6, 7, 8, 9]; 
