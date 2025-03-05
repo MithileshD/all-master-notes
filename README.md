@@ -13,10 +13,10 @@
     3.2. [Sub heading 32](#subheading-32) <br/>
     3.3. [Sub heading 33](#subheading-33) <br/><br/>
 4.  [all-sort](#all-sort) <br/>
-    4.1. [Sub heading 31](#subheading-41) <br/>
-    4.2. [Sub heading 32](#subheading-42) <br/>
-    4.3. [Sub heading 33](#subheading-43) <br/>
-    4.3. [Sub heading 34](#subheading-44) <br/>
+    4.1. [Sub heading 41](#subheading-41) <br/>
+    4.2. [Sub heading 42](#subheading-42) <br/>
+    4.3. [Sub heading 43](#subheading-43) <br/>
+    4.3. [Sub heading 44](#subheading-44) <br/>
 
 ---
 # all-JavaScript
