@@ -5,17 +5,18 @@
     1.4. [Shallow vs Deep Copy](#subheading-14) <br/><br/>
 2.  [all-React](#all-react) <br/>
     2.1. [Sub heading 21](#subheading-21) <br/>
-    2.2. [Sub heading 22](#subheading-22) <br/>
-    2.3. [Sub heading 23](#subheading-23) <br/><br/>
+    2.2. [How will you update state based on previous state ?](#subheading-22) <br/>
+    2.3. [Will you update or mutate react state?](#subheading-23) <br/>
+    2.4. [What can we put in componentWillUnmount?](#subheading-24) <br/><br/>
 3.  [all-HTML](#all-html) <br/>
     3.1. [Sub heading 31](#subheading-31) <br/>
     3.2. [Sub heading 32](#subheading-32) <br/>
     3.3. [Sub heading 33](#subheading-33) <br/><br/>
 4.  [all-sort](#all-sort) <br/>
-    3.1. [Sub heading 31](#subheading-31) <br/>
-    3.2. [Sub heading 32](#subheading-32) <br/>
-    3.3. [Sub heading 33](#subheading-33) <br/>
-    3.3. [Sub heading 34](#subheading-34) <br/>
+    4.1. [Sub heading 31](#subheading-41) <br/>
+    4.2. [Sub heading 32](#subheading-42) <br/>
+    4.3. [Sub heading 33](#subheading-43) <br/>
+    4.3. [Sub heading 34](#subheading-44) <br/>
 
 ---
 # all-JavaScript
